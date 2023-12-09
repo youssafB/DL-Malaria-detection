@@ -20,7 +20,7 @@ The VGG19 model, renowned for its depth and performance in image classification,
 To make the deep learning model accessible and user-friendly, the Malaria Detection App is integrated with a Flask web application. Users can upload microscopic images, and the app promptly provides predictions on whether the cells are infected with malaria or not.
 ## App Screenshot:
 
-![Malaria Detection App](./screeshots/screenshot.png)
+![Malaria Detection App](./screenshots/screenshot.png)
 
 
 
@@ -55,4 +55,3 @@ Integration with mobile platforms for broader accessibility.
 Improved model accuracy through additional fine-tuning and augmentation techniques.
 Deployment on cloud platforms for scalable and efficient usage.
 
-I
