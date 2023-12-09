@@ -33,12 +33,13 @@ To make the deep learning model accessible and user-friendly, the Malaria Detect
    cd DL-Malaria-detection
 
 2. **install Dependencies:**
-  ```bash
+   ```bash
    pip install -r requirements.txt
+   
 
 3. **Run the App:**
-```bash
-python app.py
+   ```bash
+   python app.py
 
 4. **Upload an Image:**
  Click on the "Choose File" button to select a microscopic image.
